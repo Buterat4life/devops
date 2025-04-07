@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+  <title>Новый пост</title>
+</head>
+<body>
+  <h1>Создать новый пост</h1>
+  <form method="POST" action="/create">
+    <label>Заголовок:</label><br>
+    <input type="text" name="title" required><br><br>
+
+    <label>Содержание:</label><br>
+    <textarea name="content" rows="5" required></textarea><br><br>
+
+    <button type="submit">Опубликовать</button>
+  </form>
+  <br>
+  <a href="/">← Назад</a>
+</body>
+</html>

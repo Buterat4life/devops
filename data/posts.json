@@ -1,14 +1,26 @@
 [
-  {
-    "id": 1,
-    "title": "Пост пользователя 1",
-    "content": "Приватный пост для пользователя с ID 1",
-    "owner_id": 1
-  },
-  {
-    "id": 2,
-    "title": "Пост пользователя 2",
-    "content": "Секретная информация пользователя 2",
-    "owner_id": 2
-  }
+    {
+        "id": 1,
+        "title": "Post user 1",
+        "content": "Private post for user ID 1",
+        "owner_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Post user 2",
+        "content": "Private post for user ID 2",
+        "owner_id": 2
+    },
+    {
+        "id": 5,
+        "title": "go",
+        "content": "wqe21",
+        "owner_id": 5
+    },
+    {
+        "id": 6,
+        "title": "32424",
+        "content": "4324324",
+        "owner_id": 6
+    }
 ]
