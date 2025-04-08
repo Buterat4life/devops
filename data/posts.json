@@ -1,26 +1,14 @@
 [
     {
-        "id": 1,
-        "title": "Post user 1",
-        "content": "Private post for user ID 1",
-        "owner_id": 1
-    },
-    {
-        "id": 2,
-        "title": "Post user 2",
-        "content": "Private post for user ID 2",
+        "id": 11,
+        "title": "go",
+        "content": "2e1e21e21",
         "owner_id": 2
     },
     {
-        "id": 5,
+        "id": 12,
         "title": "go",
-        "content": "wqe21",
-        "owner_id": 5
-    },
-    {
-        "id": 6,
-        "title": "32424",
-        "content": "4324324",
-        "owner_id": 6
+        "content": "2e12e21",
+        "owner_id": 1
     }
 ]

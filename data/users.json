@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "username": "user",
+        "password": "pbkdf2:sha256:260000$2zNRL9BHJWpDC62m$c9c98559e2676ca7481e78d300ca485b5ed753943087773cc6bf5cd4290e42f3"
+    },
+    {
+        "id": 2,
+        "username": "roz",
+        "password": "pbkdf2:sha256:260000$GOCpGCrkcwyZOLrQ$c6b3a035e062e2f2521054e991937775381ba299715720c6b8497ab25187cd5f"
+    }
+]

@@ -1,0 +1,13 @@
+<h1>Вход</h1>
+{% if error %}<p style="color:red">{{ error }}</p>{% endif %}
+<form method="POST">
+  <label>Логин:</label><br>
+  <input type="text" name="username" required><br>
+  <label>Пароль:</label><br>
+  <input type="password" name="password" required><br><br>
+  <button type="submit">Войти</button>
+</form>
+<p>
+<a href="/posts">Войти как гость</a>
+</p>
+<a href="/register">← Регистрация</a>

@@ -12,8 +12,9 @@
   <h1>Список постов</h1>
   <ul>
     {% for post in posts %}
-      <li><a href="/post/{{ post.id }}?user=1">Пост #{{ post.id }}</a></li>
+      <li><a href="/post/{{ post.id }}">Пост #{{ post.id }}</a></li>
     {% endfor %}
   </ul>
+  <a href="/logout"> Выйти из аккаунта</a>
 </body>
 </html>
